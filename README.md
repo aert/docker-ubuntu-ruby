@@ -1,2 +1,6 @@
 # docker-ubuntu-ruby
-Ubuntu version of the offical ruby dockerfiles
+
+These are dockerfiles found in https://hub.docker.com/_/ruby/ but having ubuntu
+dependencies instead of debian.
+
+
